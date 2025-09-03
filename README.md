@@ -24,6 +24,7 @@ Cada carpeta contiene notebooks con:
 
 * Ascenso y Descenso del Gradiente en 2D
 * Ascenso y Descenso del Gradiente en 3D
+* Optimización por Enjambre de Particulas 2D y 3D
 
 > La lista crecerá conforme avance el semestre.
 
